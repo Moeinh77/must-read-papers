@@ -15,4 +15,4 @@ Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 :page_facing_up:[AlexNet-ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
-:page_facing_up:[VGG Net-ImageNet Classification with Deep Convolutional Neural Networks](https://arxiv.org/pdf/1409.1556v6.pdf)
+:page_facing_up:[VGG Net-VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556v6.pdf)
