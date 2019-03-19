@@ -1,4 +1,4 @@
-# Must read ML papers
+# Must-read ML papers
 :star: Machine learning papers that data every scientist should have read.
 
 ### Machine learning and classic models:
