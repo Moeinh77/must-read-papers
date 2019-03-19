@@ -7,10 +7,11 @@
 ### Deep learning and Neural Networks:
 :page_facing_up:[Topology of Learning in Artificial Neural Networks](https://arxiv.org/abs/1902.08160v1)
 
+:page_facing_up:[A Theoretical Framework for Back-Propagation][(http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf)
+
 :page_facing_up:[Adam: A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)
 
-:page_facing_up:[Dropout: A Simple Way to Prevent Neural Networks from
-Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+:page_facing_up:[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
 
 
