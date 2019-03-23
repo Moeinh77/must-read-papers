@@ -18,6 +18,8 @@
 
 
 #### CNNs
+:page_facing_up:[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)
+
 
 :page_facing_up:[AlexNet-ImageNet Classification with Deep Convolutional
 Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
