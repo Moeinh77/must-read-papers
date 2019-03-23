@@ -4,9 +4,9 @@
 ### Machine learning and classic models:
 :page_facing_up:[Data preprocessing - Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf)
 
+### Deep learning and Neural Networks:
 :page_facing_up:[Deep learning-Yann LeCun, Yoshua Bengio & Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 
-### Deep learning and Neural Networks:
 :page_facing_up:[Topology of Learning in Artificial Neural Networks](https://arxiv.org/abs/1902.08160v1)
 
 :page_facing_up:[A Theoretical Framework for Back-Propagation](http://yann.lecun.com/exdb/publis/pdf/lecun-88.pdf)
