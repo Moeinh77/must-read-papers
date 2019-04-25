@@ -27,3 +27,5 @@ Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-
 :page_facing_up:[VGG Net-VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION](https://arxiv.org/pdf/1409.1556v6.pdf)
 
 :page_facing_up:[ResNet-Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
+
+:page_facing_up:[YOLO-You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
