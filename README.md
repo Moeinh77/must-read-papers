@@ -1,6 +1,3 @@
-# Must-read ML papers
-:star: Machine learning papers that can help you grasp the concepts in ML better.
-
 ### Machine learning and classic models:
 :page_facing_up:[Data preprocessing - Tidy data](https://vita.had.co.nz/papers/tidy-data.pdf)
 
